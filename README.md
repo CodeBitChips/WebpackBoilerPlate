@@ -4,7 +4,7 @@
 
 
 ## Get Started
-- Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
+Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
 
 
 - [Live Site](http://GITHUB_ID.github.io/...)
