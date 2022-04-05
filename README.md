@@ -7,8 +7,8 @@
 - Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
 
 
-[Live Site](http://GITHUB_ID.github.io/...)
-[Live Demo Link](https://www.loom.com/share/...)
+- [Live Site](http://GITHUB_ID.github.io/...)
+- [Live Demo Link](https://www.loom.com/share/...)
 
 ## Get Started
 To get a local copy up and running follow these simple example steps.Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
