@@ -4,7 +4,8 @@
 
 
 ## Get Started
-Switch/ Navigate to the required branch. Clone/ Download the code. Customize for your need. Start working !!!
+Click on the green button **Use the Template** and Start working. Happy Coding !!!
+![image](https://user-images.githubusercontent.com/61361037/161849727-b74bc9e4-768d-4aab-9cb5-3bd6956d4b0c.png)
 
 
 - [Live Site](http://GITHUB_ID.github.io/...)
